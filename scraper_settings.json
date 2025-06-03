@@ -1,0 +1,10 @@
+{
+    "manual_cookie": "",
+    "proxies_config": null,
+    "main_loop_sleep_seconds": 300,
+    "profile_sleep_min": 25,
+    "profile_sleep_max": 55,
+    "cycles_before_session_refresh": 10,
+    "cycles_before_profiles_save": 1,
+    "log_level": "DEBUG"
+}
