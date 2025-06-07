@@ -6,9 +6,5 @@
     "profile_sleep_max": 55,
     "cycles_before_session_refresh": 10,
     "cycles_before_profiles_save": 1,
-    "log_level": "INFO",
-    "max_finds_age_days": 3,
-    "telegram_notifications_enabled": true, 
-    "telegram_bot_token": "7723916707:AAF5iikGsE4SMm6kG5TsyUpgoE5-U3vNanI",
-    "telegram_chat_id": "8007252652"
+    "log_level": "DEBUG"
 }
